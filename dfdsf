@@ -1,0 +1,10 @@
+[1mdiff --git a/readme.txt b/readme.txt[m
+[1mindex e69de29..9ff2d86 100644[m
+[1m--- a/readme.txt[m
+[1m+++ b/readme.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mdsd[m[41m [m
+\ No newline at end of file[m
+[1mdiff --git "a/\346\226\260\345\273\272\346\226\207\346\234\254\346\226\207\346\241\243.txt" "b/\346\226\260\345\273\272\346\226\207\346\234\254\346\226\207\346\241\243.txt"[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
